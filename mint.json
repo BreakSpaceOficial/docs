@@ -17,28 +17,28 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Suporte",
       "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Painel",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Referência de API",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "Comunidade",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Vamos começar",
       "pages": [
         "introduction",
         "quickstart",
